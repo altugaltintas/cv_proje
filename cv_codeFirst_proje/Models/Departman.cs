@@ -16,6 +16,6 @@ namespace cv_codeFirst_proje.Sınıflar
         public string ADI { get; set; }
 
 
-        //test
+        
     }
 }
