@@ -14,5 +14,8 @@ namespace cv_codeFirst_proje.Sınıflar
         [Column(TypeName = "varchar")]
         [StringLength(15)]
         public string ADI { get; set; }
+
+
+        //test
     }
 }
